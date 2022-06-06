@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Abusalem Mangalwedhe's Porfolio",
     type: "website",
-    url: "http://Abusalemhathidara.com/",
+    url: "https://abusalem.netlify.app/",
   },
 };
 
