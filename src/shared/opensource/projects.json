@@ -4,21 +4,17 @@
             "id": "",
             "name": "Covid19 Vaccination Backend Api",
             "createdAt": "2022-06-02T16:26:54Z",
-            "url": "",
+            "url": "https://github.com/Abusalem9/Covid19-Vaccination",
             "description": "The Complete Backend API for Covid19 Vaccination",
-            "isFork": false,
+            "isFork": true,
             "languages": [
                 {
-                    "name": "HTML",
-                    "iconifyClass": "logos-html-5"
+                    "name": "Spring",
+                    "iconifyClass": "logos:spring-icon"
                 },
                 {
-                    "name": "CSS",
-                    "iconifyClass": "logos-css-3"
-                },
-                {
-                    "name": "JavaScript",
-                    "iconifyClass": "logos-javascript"
+                    "name": "MySql",
+                    "iconifyClass": "logos:mysql"
                 }
             ]
         },
@@ -27,7 +23,7 @@
             "name": "Perperfry Clone",
             "createdAt": "2022-03-28T11:53:55Z",
             "url": "https://github.com/Abusalem9/Pepper-Fry-Clone",
-            "description": "This project is a ecommerce site that provides Many types of Furniture",
+            "description": "Eccommerce Site for Buy the Furniture. Netlify : cloneofpeperfry.netlify.app/",
             "isFork": false,
             "languages": [
                 {
@@ -49,7 +45,7 @@
             "name": "Fitmeals Clone",
             "createdAt": "2022-02-22T14:24:55Z",
             "url": "https://github.com/Abusalem9/fitmeals",
-            "description": "Fitmeals is the first delivery service of its kind in Hyderabad which beliefs in living a healthy and well-balanced lifestyle.",
+            "description": "Buy an Healthy & NutriFit Meals. Netlify:cloneoffitmeals.netlify.app",
             "isFork": false,
             "languages": [
                 {
